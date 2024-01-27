@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cih86mcebjmps"]
+
+[resource]
+resource_name = "grass"
+albedo_color = Color(0.491793, 0.935016, 0.82016, 1)
+normal_scale = 2.2
